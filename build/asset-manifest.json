@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DG-Editor/static/css/main.ae8d5a49.css",
+    "main.js": "/DG-Editor/static/js/main.74a21851.js",
+    "static/js/453.ed3810f9.chunk.js": "/DG-Editor/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/DG-Editor/index.html",
+    "main.ae8d5a49.css.map": "/DG-Editor/static/css/main.ae8d5a49.css.map",
+    "main.74a21851.js.map": "/DG-Editor/static/js/main.74a21851.js.map",
+    "453.ed3810f9.chunk.js.map": "/DG-Editor/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae8d5a49.css",
+    "static/js/main.74a21851.js"
+  ]
+}
